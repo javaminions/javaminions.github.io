@@ -1,5 +1,9 @@
 .WishList{
   vertical-align: top;
+  width: 80%;
+  height: auto;
+  margin: auto;
+  display: inline-block;
 }
 .card {
   display: inline-block;
