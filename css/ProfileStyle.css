@@ -3,7 +3,6 @@
   width: 80%;
   height: auto;
   margin: auto;
-  margin-left: 20%;
 }
 .card {
   vertical-align: top;
@@ -53,7 +52,7 @@
   margin: auto;
   margin-top: 5%;
   padding: 10px;
-  border: 0.5px solid red;
+  border: 0.5px solid white;
   border-radius: 15px;
 }
 .card-rewards {
@@ -61,7 +60,7 @@
   margin: auto;
   margin-top: 5%;
   padding: 10px;
-  border: 0.5px solid red;
+  border: 0.5px solid white;
   border-radius: 15px;
 }
 .side-info {
